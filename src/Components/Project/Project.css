@@ -1,0 +1,41 @@
+.project-card {
+  display: flex;
+  justify-content: space-between;
+  padding: 1rem;
+  border: 1px solid #000000;
+  border-radius: 10px;
+  background-color: #f4f0ec;
+  margin-bottom: 1rem;
+  cursor: pointer;
+  width: 360px;
+}
+.project-card-left {
+  display: flex;
+}
+.project-card-left-text {
+  font-family: Open Sans;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0.01em;
+  text-align: left;
+  color: #000;
+}
+.project-card-left-no {
+  font-family: DM Serif Display;
+  font-size: 28px;
+  font-weight: 400;
+  line-height: 83px;
+  letter-spacing: 0.01em;
+  text-align: center;
+  color: #000;
+}
+.project-card-right-text {
+  font-family: Open Sans;
+  font-size: 24px;
+  font-weight: 400;
+  line-height: 19px;
+  letter-spacing: 0.01em;
+  text-align: left;
+  color: #bf0a2a;
+}
